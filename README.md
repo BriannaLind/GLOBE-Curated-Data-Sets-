@@ -1,7 +1,7 @@
 # GLOBE Data Guidance and Submission Standards for Curated Data Sets
 The primary goal of the data submission process is to make curated datasets from the GLOBE community Findable, Accessible, Interoperable, and Reusable (FAIR). The table below summarizes activities performed during and after the publication process. 
 
-![Picture1]([https://github.com/BriannaLind/GLOBE-Curated-Data-Sets-/blob/main/Picture1.jpg])
+https://github.com/BriannaLind/GLOBE-Curated-Data-Sets-/blob/main/Picture1.jpg
 
 ## File Structure
 - Check file integrity (e.g., checksum, file size, corruption)
